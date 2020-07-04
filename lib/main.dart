@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:sqflitemahasiswa/list_mahasiswa.dart';
+import 'file:///D:/FlutterProject/sqflite_mahasiswa/lib/crud/list_mahasiswa.dart';
+import 'package:sqflitemahasiswa/splashscreen.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: ListMahasiswa(),
+    home: SplashScreenPage(),
     debugShowCheckedModeBanner: false,
   ));
 }

@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sqflitemahasiswa/list_mahasiswa.dart';
+import 'file:///D:/FlutterProject/sqflite_mahasiswa/lib/crud/list_mahasiswa.dart';
 
 import 'package:sqflitemahasiswa/main.dart';
 
